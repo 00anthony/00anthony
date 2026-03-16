@@ -1,16 +1,16 @@
-## Hi there 👋
+# Anthony Tijerina
 
-<!--
-**00anthony/00anthony** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student focused on backend and full-stack development.
 
-Here are some ideas to get you started:
+## Tech Stack
+C# • ASP.NET Core • SQL Server  
+React • Next.js • TailwindCSS  
+Node.js • PostgreSQL  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- **AgencyTax** – ASP.NET Core microservice for managing invoices and tax reporting
+- **FHQ Booking System** – full-stack barber scheduling platform
+- **Luvera** – Shopify-integrated skincare ecommerce site
+
+## Interests
+Backend architecture, APIs, and scalable web applications.
